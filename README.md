@@ -6,13 +6,13 @@ I'm a Sofware Engineer and a full stack developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Laravel , Php, React js, Node js, Next js, Flutter, Electron js, Django, Python
+Javascript, HTML, CSS, Laravel , Php, React js, Node js,Express js, MongoDB Next js, Flutter, Electron js, Django, Python
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Laravel and Electron js
+👩‍💻 I'm currently working on MERN
 
-🧠 I'm currently learning NextJS, Django
+🧠 I'm currently learning Django and Azure
 
 👯‍♀️ I'm looking to collaborate on projects.
 
