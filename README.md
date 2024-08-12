@@ -12,7 +12,7 @@ Javascript, HTML, CSS, Laravel , Php, React js, Node js,Express js, MongoDB Next
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on MERN
 
-🧠 I'm currently learning Django and Azure
+🧠 I'm currently learning Docker and Azure
 
 👯‍♀️ I'm looking to collaborate on projects.
 
